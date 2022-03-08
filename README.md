@@ -1,2 +1,2 @@
-# vin-htmlcss-progate
+# ini merupakan dojo / latihan 2
  
